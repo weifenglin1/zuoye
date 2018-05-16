@@ -16,6 +16,6 @@ public class VIPCoustomer extends Coustomer{
    public void touSu() {
    	super.getName();
 		System.out.print("投诉信息："+"\n"+"VIP"+level+"级别"+getName()+"投诉中....");
-		System.out.print("投诉信息："+"\n"+"VIP"+level+"级别"+getName()+"投诉中....");
+
 	}
 }
